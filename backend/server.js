@@ -36,4 +36,4 @@ app.listen(port,()=>{
 })
 
 
-//mongodb+srv://amarsarkar:<db_password>@cluster0.377vn.mongodb.net/?
+//mongodb+srv://amarsarkar:amarsarkar@cluster0.377vn.mongodb.net/?

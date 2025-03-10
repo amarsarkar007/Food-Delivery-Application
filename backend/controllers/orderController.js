@@ -27,9 +27,9 @@ const placeOrder = async (req,res)=>{
 
 }
 
-const verifyOrder = async (req,res)=>{
+// const verifyOrder = async (req,res)=>{
 
-}
+// }
 
 // user orders for frontend
 const userOrders = async (req,res)=>{
@@ -71,4 +71,4 @@ const updateStatus = async(req,res)=>{
 
 }
 
-export {placeOrder,verifyOrder,userOrders,listOrders,updateStatus}
+export {placeOrder,userOrders,listOrders,updateStatus}
